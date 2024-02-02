@@ -1,0 +1,1 @@
+todo: set all the harware dimensions in variables in parameters.yaml and then use them in the urdf xacro instead of hardcoded numbers
